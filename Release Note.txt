@@ -1,0 +1,4 @@
+New Version Changelog :-
+1) Now you can edit your messages after it has been sent in version 1.2
+2) UI changed in version 1.2
+3) Bug fixed
